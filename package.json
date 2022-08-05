@@ -10,9 +10,8 @@
     "redux-devtools-extension": "^2.13.9"
   },
   "scripts": {
-    "start": "REACT_APP_ENV=dev react-scripts start",
-    "build": "REACT_APP_ENV=prod react-scripts build",
-    "deploy_cashier": "REACT_APP_ENV=dev react-scripts build && bash ./lib/deploy.sh"
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   },
   "browserslist": {
     "production": [
