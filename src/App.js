@@ -11,7 +11,7 @@ import './index.css';
 const documentList = [
   {
     name: 'JP',
-    link: 'http://agocw.com/pay_docs/JP.html'
+    link: 'https://agocw.com/pay_docs/JP.html'
   },
   {
     name: 'UA 印尼',
