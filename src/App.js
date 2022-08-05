@@ -15,19 +15,19 @@ const documentList = [
   },
   {
     name: 'UA 印尼',
-    link: 'http://agocw.com/pay_docs/UA/ID.html'
+    link: 'https://agocw.com/pay_docs/UA/ID.html'
   },
   {
     name: 'UA 巴西',
-    link: 'http://agocw.com/pay_docs/UA/BR.html'
+    link: 'https://agocw.com/pay_docs/UA/BR.html'
   },
   {
     name: 'UA 印度',
-    link: 'http://agocw.com/pay_docs/UA/IN.html'
+    link: 'https://agocw.com/pay_docs/UA/IN.html'
   },
   {
     name: 'Change Log',
-    link: 'http://agocw.com/pay_docs/change_log.html'
+    link: 'https://agocw.com/pay_docs/change_log.html'
   }
 ];
 
